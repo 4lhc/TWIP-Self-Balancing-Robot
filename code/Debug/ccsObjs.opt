@@ -1,1 +1,0 @@
-"./encoder.obj" "./gpio.obj" "./helpers.obj" "./i2c.obj" "./main.obj" "./motor.obj" "./mpu6050.obj" "./pid.obj" "./time.obj" "./tm4c1233h6pm_startup_ccs.obj" "./uart.obj" "../tm4c1233h6pm.cmd" -llibc.a -l"/home/sj/ti/tivaware_c_series_2_1_4_178/driverlib/ccs/Debug/driverlib.lib" 
