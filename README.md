@@ -1,5 +1,7 @@
 <h1>Self Balancing Robot</h1>
 
+A Twin Wheel Inverted Pendulum Self Balancing Robot designed as part of ESD601 final project.
+
 ![alt_text](img/IMG_20191209_074434.jpg "image_tooltip")
 
 <h2>Problem Statement</h2>
